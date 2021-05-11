@@ -16,3 +16,16 @@ Para más información del dataset ver el pdf:
 ## Conclusiones
 
 ## Licencia
+
+## Bibliografía
+Almeida. A, Antonio. N, Nunes. L (2019). Hotel booking demand datasets. Recuperado de https://www.sciencedirect.com/science/article/pii/S2352340918315191 [Consultado el 2 de mayo del 2021.]
+
+Elsevier B.V, ScienceDirect (S/F). Data in Brief. Recuperado de https://www.sciencedirect.com/journal/data-in-brief [Consultado el 2 de mayo del 2021].
+
+Mostipak. J (2020). Hotel booking demand, From the paper: hotel booking demand datasets. Recuperado de https://www.kaggle.com/jessemostipak/hotel-booking-demand?select=hotel_bookings.csv [Consultado el 2 de mayo del 2021].
+
+ResearchGate (S/F). Ana Maria De Almeida. Recuperado de https://www.researchgate.net/profile/Ana-De-Almeida-6 [Consultado el 2 de mayo del 2021].
+
+ResearchGate (S/F). Nuno Antonio. Recuperado de https://www.researchgate.net/profile/Nuno-Antonio [Consultado el 2 de mayo del 2021].
+
+ResearchGate (S/F). Luís Nunes. Recuperado de https://www.researchgate.net/profile/Luis-Nunes-16 [Consultado el 2 de mayo del 2021].
