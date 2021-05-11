@@ -132,5 +132,7 @@ boxplot(outliers.cap(DFHotel_Limpio$required_car_parking_spaces), main = "Estaci
 boxplot(outliers.cap(DFHotel_Limpio$required_car_parking_spaces))$out
 summary(outliers.cap(DFHotel_Limpio$required_car_parking_spaces))
 
-#Guardado del dataframe preprocesado
+#Guardado del dataframe preprocesado (Rdata y csv)
 save(DFHotel_Limpio, file = "~/R/EA-Admin-Info/Data/DF_Limpio.RData")
+write.csv(DFHotel_Limpio, "DFHotel_Limpio.csv", row.names = FALSE)
+
