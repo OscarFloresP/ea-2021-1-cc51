@@ -29,7 +29,7 @@ En la sexta conclusión, las personas usualmente prefieren realizar sus reservas
 En la séptima conclusión se visualiza que la menor demanda de reserva es cuando empiezan a hacer estados de reservación para el hotel desde Octubre del 2014 hasta mediados del 2015, puesto que, se realiza menor cantidad de reservaciones por parte de los clientes.
 
 ## Licencia
-La licencia utilizada es la del MIT, se puede ver el archivo que contiene la licencia en el branch add-licence-1
+La licencia utilizada es la del MIT, se puede ver el archivo que contiene la licencia en el branch add-license-1
 
 ## Bibliografía
 Almeida. A, Antonio. N, Nunes. L (2019). Hotel booking demand datasets. Recuperado de https://www.sciencedirect.com/science/article/pii/S2352340918315191 [Consultado el 2 de mayo del 2021.]
