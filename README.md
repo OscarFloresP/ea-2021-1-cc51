@@ -27,7 +27,7 @@ La quinta conclusión es que los meses con mayor cantidad de reservas canceladas
 En la sexta conclusión, las personas usualmente prefieren realizar sus reservas de hotel sin niños y/o bebes. Ya que prefieren salir solos o con otros adultos para no tener preocupaciones mientras que están fuera del hotel.
 
 ## Licencia
-La licencia utilizada es la del MIT
+La licencia utilizada es la del MIT, se puede ver el archivo que contiene la licencia en el branch licence-1
 
 ## Bibliografía
 Almeida. A, Antonio. N, Nunes. L (2019). Hotel booking demand datasets. Recuperado de https://www.sciencedirect.com/science/article/pii/S2352340918315191 [Consultado el 2 de mayo del 2021.]
