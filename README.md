@@ -18,6 +18,12 @@ A partir de las conclusiones, se pueden obtener diversas conclusiones. La primer
 
 La segunda conclusión es que los huéspedes prefieren el Resort Hotel. Esto se infiere ya que el 72.2% no son canceladas versus el City Hotel que tiene un 58.3% de reservas no canceladas. Como se pueden ver en los gráficos de barras y de pie, el Resort Hotel tiene más reservas que no se cancelan. Otro elemento por el cual se concluyó que los clientes prefieren el Resort Hotel son el los días en la lista de espera. Para ello se hizo una tabla con la frecuencia porcentual de cada día en el que se está en la lista de espera en ambos hoteles. Con esa tabla se pudo determinar que se pasan menos días en la lista de espera del Resort Hotel (0.33%) que en el del City Hotel (0.66%) que puede ser un factor para que los clientes prefieran al Resort Hotel.
 
+La tercera conclusión consiste en que la demanda de hoteles sí ha estado en aumento en los últimos tres años examinados por el data frame, teniendo un auge en el 2016. En cuanto a los resultados mensuales, es un poco más variado, pero hay más aumentos que disminuciones en cuanto a la cantidad de huéspedes, por lo que se puede decir que también hay un aumento general de la demanda.
+
+La cuarta conclusión es que la mayoría de los meses tienen una temporada de reserva media, siendo muy balanceadas las reservas entre cada mes. Las excepciones notables son Noviembre y Diciembre con temporadas bajas y Enero, Julio, Agosto y Octubre, con temporadas altas.
+
+La quinta conclusión es que los meses con mayor cantidad de reservas canceladas son Enero, Julio, Febrero y Octubre. De estos, tres de los cuatro meses también son meses con temporadas altas de reservas, por lo que se puede concluir que mientras más personas reserven en el hotel, es más probable que haya más reservas canceladas.
+
 ## Licencia
 La licencia utilizada es la del MIT
 
