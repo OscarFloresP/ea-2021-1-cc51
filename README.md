@@ -16,6 +16,7 @@ Para más información del dataset ver el pdf:
 ## Conclusiones
 
 ## Licencia
+La licencia utilizada es la del MIT
 
 ## Bibliografía
 Almeida. A, Antonio. N, Nunes. L (2019). Hotel booking demand datasets. Recuperado de https://www.sciencedirect.com/science/article/pii/S2352340918315191 [Consultado el 2 de mayo del 2021.]
