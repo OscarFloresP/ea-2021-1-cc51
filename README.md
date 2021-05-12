@@ -26,6 +26,8 @@ La quinta conclusión es que los meses con mayor cantidad de reservas canceladas
 
 En la sexta conclusión, las personas usualmente prefieren realizar sus reservas de hotel sin niños y/o bebes. Ya que prefieren salir solos o con otros adultos para no tener preocupaciones mientras que están fuera del hotel.
 
+En la séptima conclusión se visualiza que la menor demanda de reserva es cuando empiezan a hacer estados de reservación para el hotel desde Octubre del 2014 hasta mediados del 2015, puesto que, se realiza menor cantidad de reservaciones por parte de los clientes.
+
 ## Licencia
 La licencia utilizada es la del MIT, se puede ver el archivo que contiene la licencia en el branch licence-1
 
