@@ -24,6 +24,8 @@ La cuarta conclusión es que la mayoría de los meses tienen una temporada de re
 
 La quinta conclusión es que los meses con mayor cantidad de reservas canceladas son Enero, Julio, Febrero y Octubre. De estos, tres de los cuatro meses también son meses con temporadas altas de reservas, por lo que se puede concluir que mientras más personas reserven en el hotel, es más probable que haya más reservas canceladas.
 
+En la sexta conclusión, las personas usualmente prefieren realizar sus reservas de hotel sin niños y/o bebes. Ya que prefieren salir solos o con otros adultos para no tener preocupaciones mientras que están fuera del hotel.
+
 ## Licencia
 La licencia utilizada es la del MIT
 
