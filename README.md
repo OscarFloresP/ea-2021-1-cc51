@@ -14,6 +14,7 @@ El dataset a analizar es el de Hotel Booking Demanad, la versión original es de
 Para más información del dataset ver el pdf: 
 
 ## Conclusiones
+A partir de las conclusiones, se pueden obtener diversas conclusiones. La primera es que los estacionamientos no es importante contar con espacios de estacionamiento para el Resort Hotel. La tabla A muestra que 34570 no requieren estacionamiento y sólo 5490 requieren un estacionamiento. Por lo que la gran mayoría de clientes no requiere un estacionamiento, no es importante para la reserva. En el caso del City Hotel, tampoco es importante contar con espacios de estacionamiento. Según la tabla A, 77404 no requieren un estacionamiento y sólo 1926 huéspedes requieren mínimo 1 estacionamiento. Debido a que la gran mayoría no requiere un estacionamiento, se puede concluir que no son importantes para los huéspedes, por lo que no es un requisito para el hotel.
 
 ## Licencia
 La licencia utilizada es la del MIT
