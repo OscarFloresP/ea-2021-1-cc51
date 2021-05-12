@@ -16,6 +16,8 @@ Para más información del dataset ver el pdf:
 ## Conclusiones
 A partir de las conclusiones, se pueden obtener diversas conclusiones. La primera es que los estacionamientos no es importante contar con espacios de estacionamiento para el Resort Hotel. La tabla A muestra que 34570 no requieren estacionamiento y sólo 5490 requieren un estacionamiento. Por lo que la gran mayoría de clientes no requiere un estacionamiento, no es importante para la reserva. En el caso del City Hotel, tampoco es importante contar con espacios de estacionamiento. Según la tabla A, 77404 no requieren un estacionamiento y sólo 1926 huéspedes requieren mínimo 1 estacionamiento. Debido a que la gran mayoría no requiere un estacionamiento, se puede concluir que no son importantes para los huéspedes, por lo que no es un requisito para el hotel.
 
+La segunda conclusión es que los huéspedes prefieren el Resort Hotel. Esto se infiere ya que el 72.2% no son canceladas versus el City Hotel que tiene un 58.3% de reservas no canceladas. Como se pueden ver en los gráficos de barras y de pie, el Resort Hotel tiene más reservas que no se cancelan. Otro elemento por el cual se concluyó que los clientes prefieren el Resort Hotel son el los días en la lista de espera. Para ello se hizo una tabla con la frecuencia porcentual de cada día en el que se está en la lista de espera en ambos hoteles. Con esa tabla se pudo determinar que se pasan menos días en la lista de espera del Resort Hotel (0.33%) que en el del City Hotel (0.66%) que puede ser un factor para que los clientes prefieran al Resort Hotel.
+
 ## Licencia
 La licencia utilizada es la del MIT
 
