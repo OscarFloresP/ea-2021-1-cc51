@@ -11,7 +11,7 @@ El objetivo de este examen es realizar un análisis exploratorio de un conjunto 
 ## Descripción Dataset
 El dataset a analizar es el de Hotel Booking Demanad, la versión original es de kaggle.com pero se ha modificado para agregar ruido en los datos. No obstante, el origen de los datos es el mismo y tiene los mismos creadores. El dataset contiene la información de reserva de hoteles, ya sean en una ciudad o un resort, que hacen los clientes. Incluye los detalles de cuándo se hizo la reserva, por cuánto tiempo se quedó, cantidad de personas que reservaron y el tipo de persona (adulto, niño, bebé, etc.), etc. El Dataset fue creado por Nuno Antonio, Ana Almeida, y Luís Nunes. Lo publicaron en el artículo “Hotel Booking Demand Dataset” para Data in Brief, perteneciendo al volumen 22 de esta página en el 2019 (Mostipak; 2020). 
 
-Para más información del dataset ver el pdf: 
+Para más información del dataset ver el pdf: https://drive.google.com/file/d/1YPY1V1mFj1Zbcx9y5UgymacLJw_A9MXq/view?usp=sharing 
 
 ## Conclusiones
 A partir de las conclusiones, se pueden obtener diversas conclusiones. La primera es que los estacionamientos no es importante contar con espacios de estacionamiento para el Resort Hotel. La tabla A muestra que 34570 no requieren estacionamiento y sólo 5490 requieren un estacionamiento. Por lo que la gran mayoría de clientes no requiere un estacionamiento, no es importante para la reserva. En el caso del City Hotel, tampoco es importante contar con espacios de estacionamiento. Según la tabla A, 77404 no requieren un estacionamiento y sólo 1926 huéspedes requieren mínimo 1 estacionamiento. Debido a que la gran mayoría no requiere un estacionamiento, se puede concluir que no son importantes para los huéspedes, por lo que no es un requisito para el hotel.
@@ -29,7 +29,7 @@ En la sexta conclusión, las personas usualmente prefieren realizar sus reservas
 En la séptima conclusión se visualiza que la menor demanda de reserva es cuando empiezan a hacer estados de reservación para el hotel desde Octubre del 2014 hasta mediados del 2015, puesto que, se realiza menor cantidad de reservaciones por parte de los clientes.
 
 ## Licencia
-La licencia utilizada es la del MIT, se puede ver el archivo que contiene la licencia en el branch licence-1
+La licencia utilizada es la del MIT, se puede ver el archivo que contiene la licencia en el branch add-licence-1
 
 ## Bibliografía
 Almeida. A, Antonio. N, Nunes. L (2019). Hotel booking demand datasets. Recuperado de https://www.sciencedirect.com/science/article/pii/S2352340918315191 [Consultado el 2 de mayo del 2021.]
